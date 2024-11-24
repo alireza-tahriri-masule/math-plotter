@@ -148,8 +148,9 @@ When running the sine function example, you’ll see a graph displaying the sine
 - **Hover**: Displays `x` and `y` coordinates in the title bar.  
 - **Save**: Automatically saves the plot if a file name is provided.  
 
-Example saved output:  
-![Sine Wave Example](https://via.placeholder.com/800x400)  
+Example of a saved plot:
+![Quadratic Function Plot](./images/01.png)  
+![Quadratic Function Plot](./images/01.png)  
 
 ---
 
