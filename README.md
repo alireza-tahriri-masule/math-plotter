@@ -149,8 +149,9 @@ When running the sine function example, you’ll see a graph displaying the sine
 - **Save**: Automatically saves the plot if a file name is provided.  
 
 Example of a saved plot:
-![Quadratic Function Plot](./images/01.png)  
-![Quadratic Function Plot](./images/01.png)  
+
+<img src="./images/01.png" alt="Quadratic Function Plot" width="45%" />
+<img src="./images/01.png" alt="Quadratic Function Plot" width="45%" />
 
 ---
 
