@@ -152,7 +152,7 @@ Example of a saved plot:
 
 <div style="display: flex; justify-content: space-around; gap: 10px;">
     <img src="./images/01.png" alt="Quadratic Function Plot" width="45%" />
-    <img src="./images/01.png" alt="Quadratic Function Plot" width="45%" />
+    <img src="./images/02.png" alt="Quadratic Function Plot" width="45%" />
 </div>
 ---
 
